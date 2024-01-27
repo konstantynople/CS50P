@@ -29,6 +29,7 @@ You will learn how to read and write code, test and debug it, handle exceptions,
 
 ## Assessment
 
+- **Problem Sets**
 - **Final Project**:
   - [For details](https://cs50.harvard.edu/python/2022/project/)
 
