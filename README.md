@@ -31,7 +31,7 @@ You will learn how to read and write code, test and debug it, handle exceptions,
 
 ## Assessment
 
-- **Final Project**: [You decide what it will be!]
+- **Final Project**:
   - [For details on the Final Project](https://cs50.harvard.edu/python/2022/project/)
 
 ## Getting Started
@@ -45,7 +45,7 @@ Follow these steps to get started with the course:
 
 ## Acknowledgments
 
-A special thanks to David Malan and the CS50P Team for designing and teaching this course.
+A special thanks to **David Malan and the CS50P Team** for designing and teaching this course.
 
 ## License
 
