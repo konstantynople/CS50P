@@ -6,7 +6,7 @@ Welcome to the CS50P course! This is an introduction to programming using the Py
 
 ## Course Overview
 
-- **Duration**: [10 Weeks of Lectures, followed by a Final Project]
+- **Duration**: 10 Weeks of Lectures and Assignments, followed by a Final Project
 - **Prerequisites**: No prior programming experience required
 - **Required Software**: Web browser or your own PC/Mac for coding
 
