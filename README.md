@@ -41,11 +41,11 @@ Follow these steps to get started with the course:
 1. [Create an edX account](https://www.edx.org/)
 2. [Registed for CS50P](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)
 3. [Use the official CS50P Website](https://cs50.harvard.edu/python/2022/)
-4. [Enjoy the ride!]
+4. Enjoy the ride!
 
 ## Acknowledgments
 
-A special thanks to [David Malan and the CS50P Team] for designing and teaching this course.
+A special thanks to David Malan and the CS50P Team for designing and teaching this course.
 
 ## License
 
