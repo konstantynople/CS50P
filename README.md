@@ -49,4 +49,4 @@ A special thanks to **David Malan and the CS50P Team** for designing and teachin
 
 Please refer to licenses that are improved by Harvard
 
-No license requirements will be imposed by me since this content is for educational purposes. There will be no support for anything written here. This is reposatory for myself and not meant to be used as an answer guide for others to copy and paste, which would trigger a violation in [Academic Honestry](https://cs50.harvard.edu/python/2022/honesty/).
+No license requirements will be imposed by me since this content is for educational purposes. There will be no support for anything written here. This repository is for myself and is not meant to be used as an answer guide for others to copy and paste, as that would trigger a violation in [Academic Honestry](https://cs50.harvard.edu/python/2022/honesty/).
